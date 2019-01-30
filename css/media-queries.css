@@ -9,5 +9,16 @@ nav>ul:first-child a, .alert-info>a {
 
 li {
     list-style: none;
+    padding: 3%;
+    background-color: lightgrey;
+    margin-top: 3%;
+}
+
+ul.nav-links {
+    padding-left: 0;
+}
+
+.alert-info{
+    background-color: lightblue;
 }
 
