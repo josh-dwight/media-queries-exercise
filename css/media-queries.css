@@ -1,9 +1,10 @@
 /* Moblie CSS */
 .alert-info, h1, .nav-links {
     text-align: center;
+    font-family: arial;
 }
 
-nav>ul:first-child a, .alert-info>a {
+.alert-info>a {
     text-decoration: none;
 }
 
@@ -11,7 +12,7 @@ li {
     list-style: none;
     padding: 3%;
     background-color: lightgrey;
-    margin-top: 3%;
+    margin: 3%;
 }
 
 ul.nav-links {
@@ -20,5 +21,24 @@ ul.nav-links {
 
 .alert-info{
     background-color: lightblue;
+    padding: 3%;
+    border: 2px solid gray;
+    margin: 3%;
 }
 
+body>div:first-child a {
+    color: #000;
+}
+
+h1 {
+    font-size: 6em;
+    margin-top: 2%;
+}
+
+#main, .sub-section {
+    font-family: Arial;
+}
+
+.sub-section {
+    font-style: italic;
+}
