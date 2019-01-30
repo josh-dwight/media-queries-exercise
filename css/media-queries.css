@@ -92,4 +92,21 @@ h1 {
         margin-left: 2%;
     }
 
+    div#social-media-links{
+        margin-right: 5.1%;
+        text-align: right;
+    }
+
+    i.fab.fa-twitter-square.fa-2x {
+        color: #55ACEE;
+    }
+
+    i.fab.fa-facebook.fa-2x {
+        color: #3B5998;
+    }
+
+    i.fab.fa-instagram.fa-2x{
+        color:red;
+    }
+
 }
