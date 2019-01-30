@@ -65,6 +65,18 @@ i.fab.fa-instagram.fa-2x{
     color:red;
 }
 
+a:hover i.fab.fa-twitter-square.fa-2x{
+    color:purple;
+}
+
+a:hover i.fab.fa-facebook.fa-2x{
+    color:lightblue;
+}
+
+a:hover i.fab.fa-instagram.fa-2x{
+    color:black;
+}
+
 @media screen and (min-width:992px) {
     .hidden-on-desktop {
         display: none;
