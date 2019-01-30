@@ -10,6 +10,7 @@
 
 img {
     margin-left: 3%;
+    width: 95%;
 }
 
 li {
@@ -35,8 +36,9 @@ body>div:first-child a {
 }
 
 h1 {
-    font-size: 6em;
+    font-size: 300%;
     margin-top: 2%;
+
 }
 
 #main, .sub-section, footer {
