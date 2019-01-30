@@ -56,15 +56,21 @@ h1 {
     h1 {
         text-align: left;
         margin-left: 1%;
+        margin-right: 40%;
         font-size: 300%;
         float: left;
     }
 
     nav>ul>li {
-        display: inline;
+        display: inline-block;
         padding: 0;
         background: none;
-        float: right;
+        /*float: left;*/
+    }
+
+    img{
+        margin: 0 1.5%;
+        width: 95%;
     }
 
 }
